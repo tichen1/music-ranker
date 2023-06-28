@@ -1,0 +1,1182 @@
+[
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+    },
+    "href": "https://api.spotify.com/v1/albums/5NchVUjB8yqNhqSeBYaFVy",
+    "id": "5NchVUjB8yqNhqSeBYaFVy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734b4a6d53c0fcc38756d244d8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024b4a6d53c0fcc38756d244d8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514b4a6d53c0fcc38756d244d8",
+        "width": 64
+      }
+    ],
+    "name": "Fossora",
+    "release_date": "2022-09-30",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5NchVUjB8yqNhqSeBYaFVy"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/037hz3oZyrgcJOheyhPMnC"
+    },
+    "href": "https://api.spotify.com/v1/albums/037hz3oZyrgcJOheyhPMnC",
+    "id": "037hz3oZyrgcJOheyhPMnC",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27378b9c6b13f48700a16f544ad",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0278b9c6b13f48700a16f544ad",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485178b9c6b13f48700a16f544ad",
+        "width": 64
+      }
+    ],
+    "name": "Utopia",
+    "release_date": "2017-11-24",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:037hz3oZyrgcJOheyhPMnC"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lzos9xBnjgFQAXZUQQsVU"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lzos9xBnjgFQAXZUQQsVU",
+    "id": "5lzos9xBnjgFQAXZUQQsVU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273178ab7c81f84e2fdad2f1c31",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02178ab7c81f84e2fdad2f1c31",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851178ab7c81f84e2fdad2f1c31",
+        "width": 64
+      }
+    ],
+    "name": "Vulnicura Live",
+    "release_date": "2016-07-15",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5lzos9xBnjgFQAXZUQQsVU"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2V6R23b1HWsgq70K5wKi1S"
+    },
+    "href": "https://api.spotify.com/v1/albums/2V6R23b1HWsgq70K5wKi1S",
+    "id": "2V6R23b1HWsgq70K5wKi1S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273119db0136bd03a8cb2782960",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02119db0136bd03a8cb2782960",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851119db0136bd03a8cb2782960",
+        "width": 64
+      }
+    ],
+    "name": "Vulnicura Strings (Vulnicura: The Acoustic Version - Strings , Voice and Viola Organista Only)",
+    "release_date": "2015-11-06",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:2V6R23b1HWsgq70K5wKi1S"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ttnHZ0HVGMSMTJdZZ7kYK"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ttnHZ0HVGMSMTJdZZ7kYK",
+    "id": "1ttnHZ0HVGMSMTJdZZ7kYK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737992430930507f768cc0110a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027992430930507f768cc0110a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517992430930507f768cc0110a",
+        "width": 64
+      }
+    ],
+    "name": "Vulnicura",
+    "release_date": "2015-01-20",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "type": "album",
+    "uri": "spotify:album:1ttnHZ0HVGMSMTJdZZ7kYK"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AG",
+      "AL",
+      "AM",
+      "AO",
+      "AR",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BN",
+      "BO",
+      "BR",
+      "BS",
+      "BT",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CD",
+      "CG",
+      "CH",
+      "CI",
+      "CL",
+      "CM",
+      "CO",
+      "CR",
+      "CV",
+      "CW",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FM",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GH",
+      "GM",
+      "GN",
+      "GQ",
+      "GR",
+      "GT",
+      "GW",
+      "GY",
+      "HK",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IN",
+      "IQ",
+      "IS",
+      "IT",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KR",
+      "KW",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MN",
+      "MO",
+      "MR",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RO",
+      "RS",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SR",
+      "ST",
+      "SV",
+      "SZ",
+      "TD",
+      "TG",
+      "TH",
+      "TJ",
+      "TL",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "US",
+      "UY",
+      "UZ",
+      "VC",
+      "VE",
+      "VN",
+      "VU",
+      "WS",
+      "XK",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4pEiF7106NYmXV0pqP3RSZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/4pEiF7106NYmXV0pqP3RSZ",
+    "id": "4pEiF7106NYmXV0pqP3RSZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734d10a89edd2e7bf16cacfd6b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024d10a89edd2e7bf16cacfd6b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514d10a89edd2e7bf16cacfd6b",
+        "width": 64
+      }
+    ],
+    "name": "Biophilia (Live)",
+    "release_date": "2014-11-24",
+    "release_date_precision": "day",
+    "total_tracks": 20,
+    "type": "album",
+    "uri": "spotify:album:4pEiF7106NYmXV0pqP3RSZ"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lawlULYJzEKd2qk6r3l9w"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lawlULYJzEKd2qk6r3l9w",
+    "id": "5lawlULYJzEKd2qk6r3l9w",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f2dafc0dab633d21ceacc588",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f2dafc0dab633d21ceacc588",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f2dafc0dab633d21ceacc588",
+        "width": 64
+      }
+    ],
+    "name": "Bastards",
+    "release_date": "2012-11-20",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:5lawlULYJzEKd2qk6r3l9w"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3gzmutBDhUmW3YmmiOXRC4"
+    },
+    "href": "https://api.spotify.com/v1/albums/3gzmutBDhUmW3YmmiOXRC4",
+    "id": "3gzmutBDhUmW3YmmiOXRC4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aaf933f1bdf485d78c3f2852",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aaf933f1bdf485d78c3f2852",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aaf933f1bdf485d78c3f2852",
+        "width": 64
+      }
+    ],
+    "name": "Biophilia",
+    "release_date": "2011-10-11",
+    "release_date_precision": "day",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:3gzmutBDhUmW3YmmiOXRC4"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/363DbrhHnovVcrNKwS9qmj"
+    },
+    "href": "https://api.spotify.com/v1/albums/363DbrhHnovVcrNKwS9qmj",
+    "id": "363DbrhHnovVcrNKwS9qmj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b952b1149758c12b9bb64636",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b952b1149758c12b9bb64636",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b952b1149758c12b9bb64636",
+        "width": 64
+      }
+    ],
+    "name": "Volta",
+    "release_date": "2007-05-08",
+    "release_date_precision": "day",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:363DbrhHnovVcrNKwS9qmj"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6bPUFw9AtxniNCZIa6rPnX"
+    },
+    "href": "https://api.spotify.com/v1/albums/6bPUFw9AtxniNCZIa6rPnX",
+    "id": "6bPUFw9AtxniNCZIa6rPnX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27383cab9b5a0ee151804686cb0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0283cab9b5a0ee151804686cb0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485183cab9b5a0ee151804686cb0",
+        "width": 64
+      }
+    ],
+    "name": "Drawing Restraint #9",
+    "release_date": "2005",
+    "release_date_precision": "year",
+    "total_tracks": 11,
+    "type": "album",
+    "uri": "spotify:album:6bPUFw9AtxniNCZIa6rPnX"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6bjGw9Clp684XTRPBI0h6K"
+    },
+    "href": "https://api.spotify.com/v1/albums/6bjGw9Clp684XTRPBI0h6K",
+    "id": "6bjGw9Clp684XTRPBI0h6K",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b664726645c76b647787f0cc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b664726645c76b647787f0cc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b664726645c76b647787f0cc",
+        "width": 64
+      }
+    ],
+    "name": "Medulla",
+    "release_date": "2004-08-31",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:6bjGw9Clp684XTRPBI0h6K"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/16Cz3BmcabUigJGvwEYa39"
+    },
+    "href": "https://api.spotify.com/v1/albums/16Cz3BmcabUigJGvwEYa39",
+    "id": "16Cz3BmcabUigJGvwEYa39",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27344a38b8ff964779239c43675",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0244a38b8ff964779239c43675",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485144a38b8ff964779239c43675",
+        "width": 64
+      }
+    ],
+    "name": "Debut Live",
+    "release_date": "2003-10-01",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:16Cz3BmcabUigJGvwEYa39"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/674pSb55VS5blFv83I0Z36"
+    },
+    "href": "https://api.spotify.com/v1/albums/674pSb55VS5blFv83I0Z36",
+    "id": "674pSb55VS5blFv83I0Z36",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f393ca678ec6fb4fce48e39f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f393ca678ec6fb4fce48e39f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f393ca678ec6fb4fce48e39f",
+        "width": 64
+      }
+    ],
+    "name": "Vespertine Live",
+    "release_date": "2003",
+    "release_date_precision": "year",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:674pSb55VS5blFv83I0Z36"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/34giLYSGjEgQoX6HdEa8V9"
+    },
+    "href": "https://api.spotify.com/v1/albums/34giLYSGjEgQoX6HdEa8V9",
+    "id": "34giLYSGjEgQoX6HdEa8V9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c2d0e0e53162d38db214956",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027c2d0e0e53162d38db214956",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c2d0e0e53162d38db214956",
+        "width": 64
+      }
+    ],
+    "name": "Post Live",
+    "release_date": "2003",
+    "release_date_precision": "year",
+    "total_tracks": 13,
+    "type": "album",
+    "uri": "spotify:album:34giLYSGjEgQoX6HdEa8V9"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6wrQxTaoB1PN72xcqLqI1M"
+    },
+    "href": "https://api.spotify.com/v1/albums/6wrQxTaoB1PN72xcqLqI1M",
+    "id": "6wrQxTaoB1PN72xcqLqI1M",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27373e0cc18617cadf9f5a12398",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0273e0cc18617cadf9f5a12398",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485173e0cc18617cadf9f5a12398",
+        "width": 64
+      }
+    ],
+    "name": "Homogenic Live",
+    "release_date": "2003",
+    "release_date_precision": "year",
+    "total_tracks": 16,
+    "type": "album",
+    "uri": "spotify:album:6wrQxTaoB1PN72xcqLqI1M"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AE",
+      "AG",
+      "AL",
+      "AM",
+      "AO",
+      "AR",
+      "AT",
+      "AU",
+      "AZ",
+      "BA",
+      "BB",
+      "BD",
+      "BE",
+      "BF",
+      "BG",
+      "BH",
+      "BI",
+      "BJ",
+      "BN",
+      "BO",
+      "BR",
+      "BS",
+      "BT",
+      "BW",
+      "BY",
+      "BZ",
+      "CA",
+      "CD",
+      "CG",
+      "CH",
+      "CI",
+      "CL",
+      "CM",
+      "CO",
+      "CR",
+      "CV",
+      "CW",
+      "CY",
+      "CZ",
+      "DE",
+      "DJ",
+      "DK",
+      "DM",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "ET",
+      "FI",
+      "FJ",
+      "FM",
+      "FR",
+      "GA",
+      "GB",
+      "GD",
+      "GE",
+      "GH",
+      "GM",
+      "GN",
+      "GQ",
+      "GR",
+      "GT",
+      "GW",
+      "GY",
+      "HK",
+      "HN",
+      "HR",
+      "HT",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IN",
+      "IQ",
+      "IS",
+      "IT",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KG",
+      "KH",
+      "KI",
+      "KM",
+      "KN",
+      "KR",
+      "KW",
+      "KZ",
+      "LA",
+      "LB",
+      "LC",
+      "LI",
+      "LK",
+      "LR",
+      "LS",
+      "LT",
+      "LU",
+      "LV",
+      "LY",
+      "MA",
+      "MC",
+      "MD",
+      "ME",
+      "MG",
+      "MH",
+      "MK",
+      "ML",
+      "MN",
+      "MO",
+      "MR",
+      "MT",
+      "MU",
+      "MV",
+      "MW",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "NI",
+      "NL",
+      "NO",
+      "NP",
+      "NR",
+      "NZ",
+      "OM",
+      "PA",
+      "PE",
+      "PG",
+      "PH",
+      "PK",
+      "PL",
+      "PS",
+      "PT",
+      "PW",
+      "PY",
+      "QA",
+      "RO",
+      "RS",
+      "RW",
+      "SA",
+      "SB",
+      "SC",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "SL",
+      "SM",
+      "SN",
+      "SR",
+      "ST",
+      "SV",
+      "SZ",
+      "TD",
+      "TG",
+      "TH",
+      "TJ",
+      "TL",
+      "TN",
+      "TO",
+      "TR",
+      "TT",
+      "TV",
+      "TW",
+      "TZ",
+      "UA",
+      "UG",
+      "US",
+      "UY",
+      "UZ",
+      "VC",
+      "VE",
+      "VN",
+      "VU",
+      "WS",
+      "XK",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3OBAPDGGVrinf0lEYCQdS7"
+    },
+    "href": "https://api.spotify.com/v1/albums/3OBAPDGGVrinf0lEYCQdS7",
+    "id": "3OBAPDGGVrinf0lEYCQdS7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27319d9aaa6ca119851ec3cb1a3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0219d9aaa6ca119851ec3cb1a3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485119d9aaa6ca119851ec3cb1a3",
+        "width": 64
+      }
+    ],
+    "name": "Family Tree",
+    "release_date": "2002-11-04",
+    "release_date_precision": "day",
+    "total_tracks": 35,
+    "type": "album",
+    "uri": "spotify:album:3OBAPDGGVrinf0lEYCQdS7"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
+    },
+    "href": "https://api.spotify.com/v1/albums/5vBpIxm8ws6pWyVmTWiGE1",
+    "id": "5vBpIxm8ws6pWyVmTWiGE1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bc31229deb79f896eb9fee84",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bc31229deb79f896eb9fee84",
+        "width": 64
+      }
+    ],
+    "name": "Vespertine",
+    "release_date": "2001",
+    "release_date_precision": "year",
+    "total_tracks": 12,
+    "type": "album",
+    "uri": "spotify:album:5vBpIxm8ws6pWyVmTWiGE1"
+  },
+  {
+    "album_group": "album",
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+        "id": "7w29UYBi0qsHi5RTcv3lmA",
+        "name": "Björk",
+        "type": "artist",
+        "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+      }
+    ],
+    "available_markets": ["CA", "US"],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4l3nzzqehJwW5EJb3KaNxg"
+    },
+    "href": "https://api.spotify.com/v1/albums/4l3nzzqehJwW5EJb3KaNxg",
+    "id": "4l3nzzqehJwW5EJb3KaNxg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736e1949bd2c07c6c0945f703d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026e1949bd2c07c6c0945f703d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516e1949bd2c07c6c0945f703d",
+        "width": 64
+      }
+    ],
+    "name": "Selmasongs: Music from the Motion Picture \"Dancer in the Dark\"",
+    "release_date": "2000",
+    "release_date_precision": "year",
+    "total_tracks": 7,
+    "type": "album",
+    "uri": "spotify:album:4l3nzzqehJwW5EJb3KaNxg"
+  }
+]

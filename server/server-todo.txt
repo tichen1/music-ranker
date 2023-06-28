@@ -1,0 +1,17 @@
+1. request access token
+2. api for get artists
+3. api for get albums
+4. a left/right album chooser
+- expand to be able to choose multiple albums
+- expand to be able to choose multiple artists AND albums
+
+5. add a search function
+- then add a filter function using spotify api query options
+
+
+functions of the ranker that need to be added:
+
+for 4: 
+- add keyboard click options
+- add a temp history (to rerank certain tracks and see what current standing is)
+
